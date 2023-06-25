@@ -11,10 +11,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="281bfa4b-d5c3-4038-be7c-9365db003ec0" />
+        <option name="url" value="https://github.com/mtekinn/SimpraFinal.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/080cb246b1c04a0cb707c97567e435a2b57400/_0d4d0/IDisposable.cs" root0="SKIP_HIGHLIGHTING" />
@@ -87,7 +100,7 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="SimpraFinal.API/Dockerfile: Compose Deployment" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+    <configuration name="SimpraFinal.API/Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
           <option name="imageTag" value="simprafinal.api" />
@@ -128,7 +141,7 @@
       <workItem from="1687644668370" duration="2732000" />
       <workItem from="1687650729224" duration="17584000" />
       <workItem from="1687683680967" duration="26042000" />
-      <workItem from="1687716204111" duration="765000" />
+      <workItem from="1687714865446" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1687476406860</created>
