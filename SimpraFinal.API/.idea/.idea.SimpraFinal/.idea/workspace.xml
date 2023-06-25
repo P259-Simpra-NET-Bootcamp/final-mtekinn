@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8a8e6e3-056a-460f-b48f-3851e91234c2" name="Changes" comment="Final commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/080cb246b1c04a0cb707c97567e435a2b57400/_0d4d0/IDisposable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5f2231c6493001bffb713c25678072b57daa297fbefcf87b135afa821153b/JwtPayload.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/621526284d3e4868b98948aff942206525763e57e194a27623b66c384466/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/85adcccca4de8969ee493af11df96259e69ed73372a92dcb8eecd867bd248f4/IDesignTimeDbContextFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ce1f690a69a4ba8786301385aed7484217d99a5dbaabf63626b948b5a22ff1/EntityTypeBuilder`.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/Controllers/CategoryController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/Controllers/CategoryController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/Controllers/CategoryController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/Controllers/CategoryController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/Controllers/ProductCategoryMapController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/Controllers/ProductCategoryMapController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/DTOs/CategoryDTO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/DTOs/CategoryDTO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/DTOs/CategoryDTO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/DTOs/CategoryDTO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/DTOs/CategoryDTO.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/DTOs/CategoryDTO.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RZysKVXoIVGAYOMKiXGbfz0gYv" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;RiderFSharpFileTemplatesSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/mtekin/Library/Application Support/JetBrains/Rider2023.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/mtekin/Library/Application Support/JetBrains/Rider2023.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/mtekin/.local/share/Symbols/src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.SimpraFinal.API">
+    <configuration name="SimpraFinal.API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SimpraFinal.API/SimpraFinal.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net6.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="SimpraFinal.API" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="SimpraFinal.API/Dockerfile: Compose Deployment" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="simprafinal.api" />
+          <option name="containerName" value="simprafinal.api" />
+          <option name="contextFolderPath" value="$PROJECT_DIR$" />
+          <option name="sourceFilePath" value="SimpraFinal.API/Dockerfile" />
+        </settings>
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a8e6e3-056a-460f-b48f-3851e91234c2" name="Changes" comment="" />
+      <created>1684151045193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684151045193</updated>
+      <workItem from="1687472104865" duration="6842000" />
+      <workItem from="1687512386858" duration="2650000" />
+      <workItem from="1687515667517" duration="231000" />
+      <workItem from="1687516132550" duration="9229000" />
+      <workItem from="1687531201700" duration="7778000" />
+      <workItem from="1687543078507" duration="9465000" />
+      <workItem from="1687558132159" duration="11048000" />
+      <workItem from="1687600936156" duration="42000" />
+      <workItem from="1687600988506" duration="15763000" />
+      <workItem from="1687628961988" duration="7955000" />
+      <workItem from="1687644668370" duration="2732000" />
+      <workItem from="1687650729224" duration="17584000" />
+      <workItem from="1687683680967" duration="26042000" />
+      <workItem from="1687716204111" duration="765000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1687476406860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687476406860</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1687476417985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687476417985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <created>1687476501352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687476501352</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated Services">
+      <created>1687477066133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687477066134</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated Services and Controllers">
+      <created>1687478663650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687478663650</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update Controllers">
+      <option name="closed" value="true" />
+      <created>1687516145510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687516145510</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1687519357541</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687519357541</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1687526402706</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687526402706</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1687532007962</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687532007962</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updates controller">
+      <option name="closed" value="true" />
+      <created>1687533213091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687533213091</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add migrations">
+      <option name="closed" value="true" />
+      <created>1687537868297</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687537868297</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed errors">
+      <option name="closed" value="true" />
+      <created>1687543555629</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687543555629</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Controller changes">
+      <option name="closed" value="true" />
+      <created>1687548399274</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687548399274</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updates something">
+      <option name="closed" value="true" />
+      <created>1687554104676</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687554104676</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updates DTO's">
+      <option name="closed" value="true" />
+      <created>1687560823459</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687560823459</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fixed something">
+      <option name="closed" value="true" />
+      <created>1687570581547</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687570581547</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fixed something">
+      <option name="closed" value="true" />
+      <created>1687608975507</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687608975507</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update Repositories">
+      <option name="closed" value="true" />
+      <created>1687621179390</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1687621179390</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update Services">
+      <option name="closed" value="true" />
+      <created>1687629887273</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1687629887273</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update Controllers">
+      <option name="closed" value="true" />
+      <created>1687632437337</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1687632437337</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687641287035</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687641287035</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687652674363</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1687652674363</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687654155543</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1687654155543</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687656791491</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1687656791491</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687665583163</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1687665583163</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687667681654</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1687667681654</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687667958817</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1687667958818</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687690169533</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1687690169533</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687690176540</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1687690176540</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687693035757</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1687693035757</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687693676788</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1687693676788</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687697250027</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1687697250027</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687700886618</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1687700886618</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Something update">
+      <option name="closed" value="true" />
+      <created>1687711123975</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1687711123975</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Final commit">
+      <option name="closed" value="true" />
+      <created>1687714205447</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1687714205447</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Updated Services" />
+    <MESSAGE value="Updated Services and Controllers" />
+    <MESSAGE value="Updates" />
+    <MESSAGE value="Updates controller" />
+    <MESSAGE value="Add migrations" />
+    <MESSAGE value="Fixed errors" />
+    <MESSAGE value="Controller changes" />
+    <MESSAGE value="Updates something" />
+    <MESSAGE value="Updates DTO's" />
+    <MESSAGE value="Fixed something" />
+    <MESSAGE value="Update Repositories" />
+    <MESSAGE value="Update Services" />
+    <MESSAGE value="Update Controllers" />
+    <MESSAGE value="Something update" />
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
+  </component>
+</project>
