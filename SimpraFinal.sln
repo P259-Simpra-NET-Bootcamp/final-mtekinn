@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpraFinal.API", "SimpraFinal.API\SimpraFinal.API.csproj", "{ACB6D8C2-6A7F-43FA-9B29-CD0149B14319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpraFinal.Data", "SimpraFinal.Data\SimpraFinal.Data.csproj", "{E41CDC72-1E3A-4996-A42D-5D6A19D589A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpraFinal.Business", "SimpraFinal.Business\SimpraFinal.Business.csproj", "{035FB43E-332D-4414-AB36-8827F57EC684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB6D8C2-6A7F-43FA-9B29-CD0149B14319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB6D8C2-6A7F-43FA-9B29-CD0149B14319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB6D8C2-6A7F-43FA-9B29-CD0149B14319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB6D8C2-6A7F-43FA-9B29-CD0149B14319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41CDC72-1E3A-4996-A42D-5D6A19D589A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41CDC72-1E3A-4996-A42D-5D6A19D589A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41CDC72-1E3A-4996-A42D-5D6A19D589A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41CDC72-1E3A-4996-A42D-5D6A19D589A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035FB43E-332D-4414-AB36-8827F57EC684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035FB43E-332D-4414-AB36-8827F57EC684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035FB43E-332D-4414-AB36-8827F57EC684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035FB43E-332D-4414-AB36-8827F57EC684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

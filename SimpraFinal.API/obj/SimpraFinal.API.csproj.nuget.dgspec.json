@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/SimpraFinal.API.csproj": {}
+  },
+  "projects": {
+    "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/SimpraFinal.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/SimpraFinal.API.csproj",
+        "projectName": "SimpraFinal.API",
+        "projectPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/SimpraFinal.API.csproj",
+        "packagesPath": "/Users/mtekin/.nuget/packages/",
+        "outputPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mtekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Business/SimpraFinal.Business.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Business/SimpraFinal.Business.csproj"
+              },
+              "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/SimpraFinal.Data.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/SimpraFinal.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.31.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.31.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Business/SimpraFinal.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Business/SimpraFinal.Business.csproj",
+        "projectName": "SimpraFinal.Business",
+        "projectPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Business/SimpraFinal.Business.csproj",
+        "packagesPath": "/Users/mtekin/.nuget/packages/",
+        "outputPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mtekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/SimpraFinal.Data.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/SimpraFinal.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/SimpraFinal.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/SimpraFinal.Data.csproj",
+        "projectName": "SimpraFinal.Data",
+        "projectPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/SimpraFinal.Data.csproj",
+        "packagesPath": "/Users/mtekin/.nuget/packages/",
+        "outputPath": "/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mtekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[2.0.0-preview1-final, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

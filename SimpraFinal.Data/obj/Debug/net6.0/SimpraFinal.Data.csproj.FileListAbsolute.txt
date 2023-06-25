@@ -1,0 +1,14 @@
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/bin/Debug/net6.0/SimpraFinal.Data.deps.json
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/bin/Debug/net6.0/SimpraFinal.Data.runtimeconfig.json
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/bin/Debug/net6.0/SimpraFinal.Data.dll
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/bin/Debug/net6.0/SimpraFinal.Data.pdb
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.csproj.AssemblyReference.cache
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.AssemblyInfoInputs.cache
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.AssemblyInfo.cs
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.csproj.CoreCompileInputs.cache
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.dll
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/refint/SimpraFinal.Data.dll
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.pdb
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/SimpraFinal.Data.genruntimeconfig.cache
+/Users/mtekin/RiderProjects/SimpraFinal.API/SimpraFinal.Data/obj/Debug/net6.0/ref/SimpraFinal.Data.dll
